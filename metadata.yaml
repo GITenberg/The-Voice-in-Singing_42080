@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '41511'
     url: http://www.gutenberg.org/2009/agents/41511
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42080#The-Voice-in-Singing
 gutenberg_issued: '2013-02-12'
 gutenberg_type: Text
 identifiers:
